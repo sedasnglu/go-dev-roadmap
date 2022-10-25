@@ -1,4 +1,4 @@
-# Golang tutorial seriess--
+# Golang tutorial series
 ## Introduction
 
 1. Introduction and Installation
