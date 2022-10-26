@@ -1,4 +1,4 @@
-### Introduction and Installation
+### Introduction and Installation (Giriş ve Kurulum)
 -------------------------------------
 #### 1. Go Nedir?
 
