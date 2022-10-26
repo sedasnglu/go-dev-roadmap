@@ -1,4 +1,4 @@
-### Variables, Types and Constants
+### Variables, Types and Constants (Değişkenler, Tipler ve Sabitler)
 -------------------------------------
 #### 1. Değişken Tipleri
 
